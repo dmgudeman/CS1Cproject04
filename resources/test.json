@@ -1,0 +1,30 @@
+{ "songs" : [
+    {
+        "genre": "classic pop and rock",
+        "artist_name": "Blue Oyster Cult",
+        "title": "Mes Dames Sarat",
+        "duration": "246.33424",
+        "song_id": "000001"
+    },
+    {
+        "genre": "classic pop and rock",
+        "artist_name": "Blue Oyster Cult",
+        "title": "Screams",
+        "duration": "189.80526",
+        "song_id": "000002"
+    },
+    {
+        "genre": "classic pop and rock",
+        "artist_name": "Blue Oyster Cult",
+        "title": "Dance The Night Away",
+        "duration": "158.1971",
+        "song_id": "000003"
+    },
+    {
+        "genre": "classic pop and rock",
+        "artist_name": "Blue Oyster Cult",
+        "title": "Debbie Denise",
+        "duration": "250.22649",
+        "song_id": "000004"
+    }
+ ]}

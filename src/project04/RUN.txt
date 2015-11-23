@@ -1,0 +1,50 @@
+Wow That stumped me for good long time. 
+
+Parsing JSON file...
+titles is ArrayList<String> of size: 59600
+Welcome! We have over 59600 in FoothillTunes Jukebox!
+
+Menu:
+0. Quit
+1. Output this menu
+2. Show all song titles
+3. Show all songs by genre 
+4. Buy songs by title
+5. Create a playlist
+6. Play my song title (regular priority)
+7. Play my song title first (high priority)
+9. Find a song by id
+10. Find a song by genre
+
+classic pop and rock has :23895
+punk has :3200
+folk has :13192
+pop has :1617
+dance and electronica has :4935
+metal has :2103
+jazz and blues has :4334
+classical has :1874
+hip-hop has :434
+soul and reggae has :4016
+
+ All purchased songs by ID:
+477 Get Ready, The Pioneers, classic pop and rock 
+478 Shake It Up, The Pioneers, classic pop and rock 
+529 Seafoam, Land Of Talk, classic pop and rock 
+530 (I've Had) The Time Of My Life, Bill Medley & Jennifer Warnes, classic pop a
+nd rock 
+550 So Many Ways, Brook Benton, classic pop and rock 
+669 BAD, Big Audio Dynamite, classic pop and rock 
+55151 Give You The World, The DEY, hip-hop 
+670 Sudden Impact, Big Audio Dynamite, classic pop and rock 
+55152 Massive Attack, Nicki Minaj / Sean Garrett, hip-hop 
+799 The Letter, The Mindbenders, classic pop and rock 
+803 Changes, Imagination, classic pop and rock 
+821 (I've Had) The Time Of My Life, Bill Medley & Jennifer Warnes, classic pop a
+nd rock 
+27098 Nothin On Me, Shawn Colvin, folk 
+838 Last Days Of Summer, Imagination, classic pop and rock 
+839 Sunshine, Imagination, classic pop and rock 
+833 Music And Lights, Imagination, classic pop and rock 
+line # 36 requested song ID 27098 found.
+line # 37 requested song ID 62000 NOT found.
